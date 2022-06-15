@@ -29,7 +29,6 @@ How to run ?
 
 In order to run the Project you should have a XAMPP server installed and setted up on your PC.
 
-After installing XAMPP server create an empty Database using phpmyadmin to your personal computer then set the credentials of your SQL databse of XAMPP server in the /PHP_scripts/dbms/include/DbConnect.php file line 24 in format given on line 23.
 
 After installing the XAMPP server copy the /PHP_scripts/dbms folder to your XAMPP working directory so that you can access the folder through the url : http(s)://localhost:/dbms/
 
