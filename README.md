@@ -27,17 +27,30 @@ After receiving the JSON data it is parced into usable data and then the UI is u
 
 How to run ?
 
-In order to run the Project you should have a XAMPP server installed and setted up on your PC.
+In order to run the Project you should have to open Visual studio code on you PC.
+
+Installation Steps
+
+open Terminal and clone the repo:-
+  git clone https://github.com/parulsurana/Classroom.git
+cd over:-
+   cd Classroom
+Install packages and dependencies:-
+   npm install
+Run the app:-
+   npm start
+   
+🌟 You are all set!
 
 
 After installing the XAMPP server copy the /PHP_scripts/dbms folder to your XAMPP working directory so that you can access the folder through the url : http(s)://localhost:/dbms/
 
-Then install the app-debug.apk file located in /Android_App/DBMS/app/build/outputs/apk folder
-
-Before running the app make sure both Android device and your PC are in a LAN connection and find out the LAN ipv4 address of your PC.
-
-Enter the address in the android app in settings section.
-
 After setting the address the app is ready to use for querying on the database.
+
+Prerequisites for OS
+  Node @latest
+  Npm @latest
+  MongoDB (Mlab)
+  Firebase
 
 Hooray !!!! You are ready to use the app ...
