@@ -35,9 +35,13 @@ In order to run the Project you should have to open Visual studio code on you PC
 Installation Steps
 
 Install packages and dependencies:-
+
    npm install
+   
 Run the app:-
+
    npm start
+   
    
 🌟 You are all set!
 
@@ -49,9 +53,12 @@ After setting the address the app is ready to use for querying on the database.
 
 Prerequisites for OS
 
-  Node @latest
-  Npm @latest
-  MongoDB (Mlab)
-  Firebase
+   Node @latest
+  
+   Npm @latest
+  
+   MongoDB (Mlab)
+  
+   Firebase
 
 Hooray !!!! You are ready to use the app ...
