@@ -25,16 +25,15 @@ Then the result given after executing the SQL_QUERY on the database the output i
 
 After receiving the JSON data it is parced into usable data and then the UI is updated accordingly.
 
+
+
 How to run ?
 
 In order to run the Project you should have to open Visual studio code on you PC.
 
+
 Installation Steps
 
-open Terminal and clone the repo:-
-  git clone https://github.com/parulsurana/Classroom.git
-cd over:-
-   cd Classroom
 Install packages and dependencies:-
    npm install
 Run the app:-
@@ -47,7 +46,9 @@ After installing the XAMPP server copy the /PHP_scripts/dbms folder to your XAMP
 
 After setting the address the app is ready to use for querying on the database.
 
+
 Prerequisites for OS
+
   Node @latest
   Npm @latest
   MongoDB (Mlab)
