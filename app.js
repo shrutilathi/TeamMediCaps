@@ -27,7 +27,7 @@ if (process.env.NODE_ENV === "production") {
 }
 
 mongoose
-  .connect(process.env.DB_URL, {
+  .connect("mongodb+srv://minks:minks23@cluster0.rdwvrch.mongodb.net/?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
